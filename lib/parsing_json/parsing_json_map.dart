@@ -40,7 +40,7 @@ class _JsonParsingMapState extends State<JsonParsingMap> {
             },
           ),
         ),
-      );
+      ),
     );
   }
 }

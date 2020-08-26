@@ -1,24 +1,7 @@
-<!-- ![Image](images/rovers.jpg) -->
-# Flutter Pokemon Application :boom:
+![Image](images/rovers.jpg)
+# Flutter Material Page Route:boom:
 
-<!-- ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev) -->
-
-Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
-
-## Unique Features of the Application:
-* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
-* [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
-* [✅]Map is an data structure which is used for passing it through the function.
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-<!-- * [❌] Everything is static right now, no API integration done on it. -->
-  
-### Screenshots and Working GIFS:
-
-<!-- <img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/> -->
-
-
- Sorry for the quality of the GIF :pray:
+Flutter Material Page Route is an application, which requires to create an application, so that we can fetch the data from the API.
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -27,12 +10,15 @@ If you had like the project pls hit the star :+1: icon.
 
 The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
-# Live Working Project:
+<!-- ### Screenshots and Working GIFS:
 
-[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
+
+
+ Sorry for the quality of the GIF :pray: -->
 
 ### Created with :heart:
-A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
+I am Rahul Chandra, A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
 
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view?usp=sharing).  I am very passionated about Software Development :heart:
 
@@ -42,11 +28,12 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 <a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 
+
 ### Testing
 
 Testing of the Project is Done :heavy_check_mark:
 
-### Basic Git Workflow/If you want to contribute to this project:
+### Basic Workflow/If you want to contribute to this project:
 You can follow the below workflow, if you are new to Git. 
 
 #### Initial setup
